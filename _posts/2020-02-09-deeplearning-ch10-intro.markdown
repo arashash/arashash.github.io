@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: 'Recurrent and Recursive Nets: Lecture 1'
+title: 'Recurrent and Recursive Nets: Part 1'
 subtitle: >-
   Introduction to recurrent networks and unfolding computational graphs from the
   Chapter 10 of the Deep Learning book with a YouTube lightboard lecture
