@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: 'Recurrent and Recursive Nets: Lecture 2'
+title: 'Recurrent and Recursive Nets: Part 2'
 subtitle: >-
   We continue the previous lesson by introducing different RNN architures and
   back-propagation through-time and teacher-forcing algorithms for training.
