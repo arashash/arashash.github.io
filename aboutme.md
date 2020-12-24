@@ -29,7 +29,7 @@ Let’s connect if you want to collab something awesome in the world of open-sou
 
 
 <center>
-	<a href="https://twitter.com/4rash4ash" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @4rash4ash</a>
+	<a href="https://twitter.com/4rash4ash" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @4rash4sh</a>
 	<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 </center>
 <br>
